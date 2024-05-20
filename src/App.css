@@ -1,0 +1,70 @@
+.Navbar{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Navbar2{
+    width: 1400px;
+    background-color: black;
+    color: wheat;
+    font-size: larger;
+    margin-bottom: 100px;
+}
+
+
+
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1400px;
+    background-color: black;
+    color: wheat;
+    margin-top: 220px;
+
+}
+
+.btns{
+    background-color: black;
+    color: wheat;
+    padding: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: larger;
+}
+
+.counterHeader{
+    display: flex;
+    font-size: larger;
+}
+
+.btns1{
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
